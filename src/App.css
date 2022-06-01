@@ -1,0 +1,38 @@
+
+ul{
+    list-style: none;
+    align-items: flex-end;
+    
+}
+li{
+    align-items: flex-end;
+}
+.header{
+    padding: 100px;
+    padding-top: 300px;
+    
+    
+}
+.top-header{
+    padding-top: 180px;
+    padding-left: 250px;
+}
+.row{
+    background: linear-gradient(45deg, rgb(255, 239, 99) 50%, black 50%);
+}
+
+.button{
+    padding-top: 90px;
+    
+}
+button{
+    background-color: yellowgreen;
+    box-shadow: 20px;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: yellow;
+}
+ 
